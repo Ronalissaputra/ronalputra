@@ -9,9 +9,7 @@ const Navigation = () => {
       className="bg-gradient-to-r from-violet-500 to-teal-500 top-0 sticky"
     >
       <Container className="lg:px-20">
-        <Navbar.Brand className="text-xl text-white">
-          ronalputra.github.io
-        </Navbar.Brand>
+        <Navbar.Brand className="text-xl text-white">ronalputra</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
           <Nav className="space-y-2 lg:space-y-0">
